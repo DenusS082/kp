@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-space-grotesk: "Space Grotesk";
+  --inter-regular-14: Inter;
+  --font-caveat: Caveat;
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --inter-regular-14-size: 14px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color: #fff;
+  --color-darkslategray: #3a3a3a;
+  --color-black: #000;
+  --color-gray-100: #7c7c7c;
+  --color-gray-200: #111;
+  --color-gray-300: rgba(17, 17, 17, 0.8);
+  --color-yellowgreen: #caef46;
+  --color-greenyellow: #c0ef37;
+  --color-linen: #fff1e8;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+}
